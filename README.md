@@ -19,5 +19,5 @@ Randomly selected data for the first six months of 2017 are provided for Chicago
 1. bikeshare.py
     - The code
 
-2. reame.txt:
+2. readme.txt:
     - Websites, books, and other resources to help in solving tasks in the project.
